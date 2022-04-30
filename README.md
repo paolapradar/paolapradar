@@ -109,16 +109,16 @@
     <summary><b> Project Management </b></summary>
     <br/>
     <p>
-        <a href="https://www.python.org" target="_blank">
+        <a href="https://www.scrum.org/" target="_blank">
             <img width="42px" alt="Scrum" title="Scrum" src="assets/image/languagues_tools/scrum.png"/>
         </a>
-        <a href="https://www.python.org" target="_blank">
+        <a href="https://www.atlassian.com/es/software/jira" target="_blank">
             <img width="42px" alt="Jira" title="Jira" src="assets/image/languagues_tools/jira.png"/>
         </a>
-        <a href="https://www.python.org" target="_blank">
+        <a href="https://www.atlassian.com/es/software/confluence" target="_blank">
             <img width="42px" alt="Confluence" title="Confluence" src="assets/image/languagues_tools/confluence.png"/>
         </a>
-        <a href="https://www.python.org" target="_blank">
+        <a href="https://discord.com/" target="_blank">
             <img width="42px" alt="Discord" title="Discord" src="assets/image/languagues_tools/discord.png"/>
         </a>
     </p>
