@@ -32,9 +32,9 @@
 
 <img align="right" height="250" width="275" alt="" src="assets/gif/coder.gif" />
 
-#### 🤓 <font color = #848484>About Me</font>
+### 🤓 About Me
 
-I am a Full Stack Developer with 9+ years of experience in developing enterprise web applications.
+```I am a Full Stack Developer with 9+ years of experience in developing enterprise web applications.```
 
 - 💻 I’m currently working with PHP, Javascript, Postgresql...
 - 👩‍💻 Also, I'm managing the projects with SCRUM using Jira.
@@ -44,12 +44,11 @@ I am a Full Stack Developer with 9+ years of experience in developing enterprise
 - 🏠 I love working 100% from home
 - 👩 Pronouns: Her
 
-<font color = #9da1a5 size = 2.5>All of my projects are released as closed-source in different platforms, I can't share them for confidentiality reasons in the companies.</font>
-<hr>
+<em>All of my projects are released as closed-source in different platforms, I can't share them for confidentiality reasons in the companies.</em>
+<br/><br/>
+### 🛠️ My Tools
 
-#### 🛠️ <font color = #848484>My Tools</font>
-
-<details open>
+<details>
     <summary><b> Software Development </b></summary>
     <br/>
     <p>
@@ -106,8 +105,7 @@ I am a Full Stack Developer with 9+ years of experience in developing enterprise
         </a>
     </p>
 </details>
-<br/>
-<details open>
+<details>
     <summary><b> Project Management </b></summary>
     <br/>
     <p>
@@ -125,9 +123,11 @@ I am a Full Stack Developer with 9+ years of experience in developing enterprise
         </a>
     </p>
 </details>
+<br/><br/>
 
-> <h5 align="center"> 🔥 Motivation is powerful 🔥 </h5>
-
+<p align=center>
+    🔥 __Motivation is powerful__ 🔥 
+ </p>
 <!--
 Here are some ideas
 - 🌱 I’m currently learning ...
