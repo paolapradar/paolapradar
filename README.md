@@ -8,7 +8,7 @@
         <img width="24px" alt="LinkedIn" title="LinkedIn" src="assets/image/social_networks/linkedin.png"/>
     </a>
     &#8287;
-    <a href="www.youtube.com/c/PaolaPradaR" target="_blank">
+    <a href="https://youtube.com/c/PaolaPradaR" target="_blank">
         <img width="24px" alt="Youtube" title="Youtube" src="assets/image/social_networks/youtube.png"/>
     </a>
     &#8287;
