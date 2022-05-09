@@ -37,9 +37,10 @@
 ```I am a Full Stack Developer with 9+ years of experience in developing enterprise web applications.```
 
 - 💻 I’m currently working with PHP, Javascript, Postgresql...
-- 👩‍💻 Also, I'm managing the projects with SCRUM using Jira.
+- 👩‍💻 Also, I'm managing the projects with SCRUM using Jira
+- 🌱 I’m currently learning cypress
 - 💬 Ask me anything about from [Here](https://github.com/paolapradar/paolapradar/issues)
-- 📫 How to reach me: ypprada@gmail.com
+- 📫 How to reach me: paolapradar@gmail.com
 - ⚡ Fun fact: 😍🐶 and I've a [Vblog](www.youtube.com/c/viajandoenvacas) ✈️
 - 🏠 I love working 100% from home
 - 👩 Pronouns: Her
@@ -94,6 +95,9 @@
         <a href="https://tailwindcss.com/" target="_blank">
             <img width="42px" alt="Tailwind" title="Tailwind" src="assets/image/languagues_tools/tailwind.png"/>
         </a>
+        <a href="https://www.cypress.io/" target="_blank">
+            <img width="42px" alt="Cypress" title="Cypress" src="assets/image/languagues_tools/cypress.png"/>
+        </a>
         <a href="https://code.visualstudio.com/" target="_blank">
             <img width="42px" alt="VSC" title="VSC" src="assets/image/languagues_tools/vsc.png"/>
         </a>
@@ -130,7 +134,6 @@
  </p>
 <!--
 Here are some ideas
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 -->
